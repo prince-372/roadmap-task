@@ -1,0 +1,68 @@
+:root {
+    /* font size */
+    --fs-sm: 16px;
+    --fs-sm1: 18px;
+    --fs-md: 24px;
+    --fs-md1: 28px;
+    --fs-lg: 50px;
+    --fs-lg1: 60px;
+    --fs-xxl: 70px;
+
+    /* color */
+    --grey-green: #bfdf89;
+    --light-green: #9acc44;
+    --light-green1: #a4d156;
+    --dark-green: #5ba72b;
+    --gray:#deedd5;
+}
+
+/* font size */
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-sm1 {
+    font-size: var(--fs-sm1);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-md1 {
+    font-size: var(--fs-md1);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-lg1 {
+    font-size: var(--fs-lg1);
+}
+
+.fs-xxl {
+    font-size: var(--fs-xxl);
+}
+
+/* color */
+
+.text-green89 {
+    color: var(--grey-green);
+}
+
+.text-green44 {
+    color: var(--light-green);
+}
+
+.text-green56 {
+    color: var(--light-green1);
+}
+
+.text-green2b {
+    color: var(--dark-green);
+}
+.text-gray{
+    color: var(--gray);
+}
